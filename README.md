@@ -22,8 +22,10 @@
 - **docker-django-compose** — Django-проект, упакованный в Docker Compose
 
 ## 📊 Статистика GitHub
-
 ![Last Commit](https://img.shields.io/github/last-commit/levprav43-create/levprav43-create?style=for-the-badge&label=Last+commit)
 ![Stars](https://img.shields.io/github/stars/levprav43-create?style=for-the-badge&color=yellow&label=Stars)
 ![Followers](https://img.shields.io/github/followers/levprav43-create?style=for-the-badge&label=Followers)
 
+## 📬 Контакты
+[![Telegram](https://img.shields.io/badge/Telegram-написать-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/@Leon1King)
+[![Email](https://img.shields.io/badge/Email-написать-D14836?style=for-the-badge&logo=gmail)](mailto:sherxan112@gmail.com)
