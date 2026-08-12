@@ -23,6 +23,5 @@
 
 ## 📊 Статистика GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=levprav43-create&show_icons=true&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=levprav43-create&theme=dark&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=levprav43-create&layout=compact&theme=dark)
