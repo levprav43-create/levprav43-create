@@ -23,5 +23,7 @@
 
 ## 📊 Статистика GitHub
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=levprav43-create&theme=dark&hide_border=true)
+![Last Commit](https://img.shields.io/github/last-commit/levprav43-create/levprav43-create?style=for-the-badge&label=Last+commit)
+![Stars](https://img.shields.io/github/stars/levprav43-create?style=for-the-badge&color=yellow&label=Stars)
+![Followers](https://img.shields.io/github/followers/levprav43-create?style=for-the-badge&label=Followers)
 
